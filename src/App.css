@@ -11,6 +11,7 @@
 html {
   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXlKS6Gm3_JHUwrKlPFnWOhI4THSbuR_yEKDfX6tV4ccNd7DOVxK4DL3sY2MpodaftDo&usqp=CAU');
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 body {
